@@ -1,2 +1,2 @@
-# asymttest
-asymtest
+# 喻名堂的博客
+很多程序员会选择利用github来写博客，我也来凑凑热闹！
